@@ -1,27 +1,442 @@
-{
-    "Title": "Avatar",
-    "Ru_title": "Аватар",
-    "Year": "2009",
-    "Rated": "PG-13",
-    "Released": "18 Dec 2009",
-    "Genre": "Action, Adventure, Fantasy",
-    "Director": "James Cameron",
-    "Writer": "James Cameron",
-    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
-    "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
-    "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    "Metascore": "83",
-    "imdbRating": "7.9",
-    "imdbVotes": "890,617",
-    "imdbID": "tt0499549",
-    "Type": "movie",
-    "Commentary": ""
+[
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "низкий бюджет, актеры слабоваты.",
+    "Stars": null,
+    "Title": "Tomb Rider",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Tomb Raider: Лара Крофт"
   },
-{
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "ну я же геймер, омажиками подкупили.",
+    "Stars": null,
+    "Title": "Ready Player One",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Первому игроку приготовиться"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "неплохо",
+    "Stars": null,
+    "Title": "Black Panther",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Чёрная Пантера"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "комиксовая штука",
+    "Stars": null,
+    "Title": "Avengers Infinity War",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Мстители: Война бесконечности"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "есть хорошие гэги, есть перчик местами, но это больше для фэнов комикса я полагаю.",
+    "Stars": null,
+    "Title": "Deadpool 2",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Дэдпул 2"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "сериал получше будет.",
+    "Stars": null,
+    "Title": "Loving Pablo",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Эскобар"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "не фэн starwars, но этот спинофф неплох.",
+    "Stars": null,
+    "Title": "Solo: A Star Wars Story",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Хан Соло: Звездные войны. Истории"
+  },
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "херня по комиксам",
+    "Stars": null,
+    "Title": "Ant-Man and the Wasp",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Человек-муравей и Оса"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "первая часть понравилась намного больше.",
+    "Stars": null,
+    "Title": "Sicario: Day of the Soldado",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Убийца 2. Против всех"
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "сай-фай-киберпанк тематика подкупает, видно что бюджет низкий, но сделано хорошо, очень хорошо.",
+    "Stars": null,
+    "Title": "Upgrade",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Апгрейд"
+  },
+  {
+    "Director": null,
+    "S's": 2,
+    "Sammie's comment": "хуйня",
+    "Stars": null,
+    "Title": "Venom",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Веном"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "старый добрый Rocky на новый лад.",
+    "Stars": null,
+    "Title": "Creed II",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Крид 2"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "вот тут приятный дизайн роботов, хорошая музыка, фильм подростковый, но это его не портит.",
+    "Stars": null,
+    "Title": "Bumblebee",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Бамблби"
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "просто хорошо.",
+    "Stars": null,
+    "Title": "The Mule",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Наркокурьер"
+  },
+  {
+    "Director": null,
+    "S's": 2,
+    "Sammie's comment": "типа документалка про хип-хап в рашке, лол, блядь.",
+    "Stars": null,
+    "Title": "Beef: russian hip-hop",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Beef: русский хип-хоп"
+  },
+  {
+    "Director": null,
+    "S's": 4,
+    "Sammie's comment": "строго для детей.",
+    "Stars": null,
+    "Title": "Alita: battle angel",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Алита: Боевой ангел"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "мехх",
+    "Stars": null,
+    "Title": "Capitan Marvel",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Капитан Марвел"
+  },
+  {
+    "Director": null,
+    "S's": 8,
+    "Sammie's comment": "годно!",
+    "Stars": null,
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Человек-паук: Через вселенные"
+  },
+  {
+    "Director": null,
+    "S's": 4,
+    "Sammie's comment": "хуета какая-то",
+    "Stars": null,
+    "Title": "Glass",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Стекло"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "неплохо",
+    "Stars": null,
+    "Title": "Hellboy",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Хеллбой"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "неплохая комедия.",
+    "Stars": null,
+    "Title": "Shazam!",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Шазам"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "трюки.",
+    "Stars": null,
+    "Title": "John Wick Chapter 3 Parabellum",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Джон Уик 3"
+  },
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "строго для детей.",
+    "Stars": null,
+    "Title": "Pokemon Detective Pikachu",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Покемон. Детектив Пикачу"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "неплохая драма",
+    "Stars": null,
+    "Title": "The Aftermath",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Последствия"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "комиксовая штука",
+    "Stars": null,
+    "Title": "Avengers: Endgame",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Мстители Финал"
+  },
+  {
+    "Director": null,
+    "S's": 4,
+    "Sammie's comment": "приторный, гладенький фильмец, думаю реальным биопиком тут не особо пахнет.",
+    "Stars": null,
+    "Title": "Bohemian Rhapsody",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Богемская рапсодия"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "Неплохая история, актёры прилично играют, даже Стефани (Lady Gaga).",
+    "Stars": null,
+    "Title": "A star is born",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Звезда родилась"
+  },
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "нелепый цирк с инопланетянами.",
+    "Stars": null,
+    "Title": "Men in Black: International",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Люди в чёрном: Интернэшнл"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "не самый плохой сай-фай.",
+    "Stars": null,
+    "Title": "I Am Mother",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Дитя робота"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "не самый плохой триллер.",
+    "Stars": null,
+    "Title": "Nomis",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Игра Ганнибала"
+  },
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "шляпа",
+    "Stars": null,
+    "Title": "Dark Phoenix",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Люди Икс: Тёмный Феникс"
+  },
+  {
+    "Director": null,
+    "S's": 2,
+    "Sammie's comment": "хуета.",
+    "Stars": null,
+    "Title": "Spider-Man: Far from Home",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Человек-паук: Вдали от дома"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "дебильный боевичок с обилием разноцветной клюквы, это настолько тупо что даже прикольно, гыгы.",
+    "Stars": null,
+    "Title": "Fast & Furious Presents: Hobbs & Shaw",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Форсаж: Хоббс и Шоу"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "скучно, детям может и потянет.",
+    "Stars": null,
+    "Title": "Toy Story 4",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": null
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "неплохо.",
+    "Stars": null,
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Путь: Во все тяжкие. Фильм"
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "хорошие актеры, в целом неплохой семейниый фильмец с моралью на рождество.",
+    "Stars": null,
+    "Title": "Green book",
+    "Year": 2018,
+    "Жанр": null,
+    "Название": "Зелёная книга"
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "это не тот джокер, но в остальном вполне годно.",
+    "Stars": null,
+    "Title": "Joker",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Джокер"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "скука стариковская, но Скорцезе ебать мой хуй.",
+    "Stars": null,
+    "Title": "Irishman",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Ирланедц"
+  },
+  {
+    "Director": null,
+    "S's": 6,
+    "Sammie's comment": "есть хорошие кадры именно гонок, да и в целом довольно неплохо.",
+    "Stars": null,
+    "Title": "Ford v Ferrari",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Ford против Ferrari"
+  },
+  {
+    "Director": null,
+    "S's": 3,
+    "Sammie's comment": "испанский стыд конечно, но спасает то, что я ожидал худшего.",
+    "Stars": null,
+    "Title": "Terminator: Dark Fate",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Терминатор: Тёмные судьбы"
+  },
+  {
+    "Director": null,
+    "S's": 5,
+    "Sammie's comment": "хрень какая-то, но картинка красивая местами.",
+    "Stars": null,
+    "Title": "It Chapter Two",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Оно 2"
+  },
+  {
+    "Director": null,
+    "S's": 8,
+    "Sammie's comment": "очень хорошо, с Ли момент спорный, но в остальном достойно.",
+    "Stars": null,
+    "Title": "Once Upon a Time... in Hollywood",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Однажды в… Голливуде"
+  },
+  {
+    "Director": null,
+    "S's": 7,
+    "Sammie's comment": "хорошо, очень атмосферно.",
+    "Stars": null,
+    "Title": "Ad Astra",
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "К звёздам"
+  },
+  {
+    "Director": null,
+    "S's": 8,
+    "Sammie's comment": "отлично.",
+    "Stars": null,
     "Title": "Parasite",
-    "Ru_title": "Паразиты",
-    "Year": "2019",
-    "Type": "movie",
-    "Commentary": ""
-}
+    "Year": 2019,
+    "Жанр": null,
+    "Название": "Паразиты"
+  }
+]
