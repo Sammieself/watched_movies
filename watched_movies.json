@@ -438,5 +438,25 @@
     "Year": 2019,
     "Жанр": null,
     "Название": "Паразиты"
+  },
+  {
+    "Title": "The Gentlemen",
+    "Ru_title": "Джентельмен",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "24 January 2020 (USA)",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Guy Ritchie",
+    "Writer": "Guy Ritchie, Ivan Atkinson",
+    "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery",
+    "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+    "Awards": "",
+    "Poster": "",
+    "Metascore": "51",
+    "imdbRating": "7.9",
+    "imdbID": "tt8367814",
+    "Type": "movie",
+    "Commentary": "Угарненько, но не слишком"
+    "Ryu_score": "6"
   }
 ]
