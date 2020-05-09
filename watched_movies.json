@@ -458,5 +458,25 @@
     "Type": "movie",
     "Commentary": "Угарненько, но не слишком"
     "Ryu_score": "6"
+  },
+   {
+    "Title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "Ru_title": "Звёздные войны: Скайуокер. Восход",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "20 December 2019 (USA)",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "J.J. Abrams",
+    "Writer": "",
+    "Actors": "",
+    "Plot": "",
+    "Awards": "",
+    "Poster": "",
+    "Metascore": "53",
+    "imdbRating": "6.7",
+    "imdbID": "tt2527338",
+    "Type": "movie",
+    "Commentary": "хуета"
+    "Ryu_score": "1"
   }
 ]
