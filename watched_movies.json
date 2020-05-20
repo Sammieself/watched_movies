@@ -506,9 +506,9 @@
     "Rated": "R",
     "Released": "21 July 2006 (USA)",
     "Genre": "Comedy",
-    "Director": "J.J. Abrams",
+    "Director": "Kevin Smith",
     "Writer": "Kevin Smith",
-    "Actors": "Kevin Smith",
+    "Actors": "",
     "Plot": "A calamity at Dante and Randal's shops sends them looking for new horizons - but they ultimately settle at the fast food empire Mooby's.",
     "Awards": "",
     "Poster": "",
@@ -518,5 +518,25 @@
     "Type": "movie",
     "Commentary": "чуть хуже чем первая часть, но все равно неплохо",
     "Ryu_score": "5"
+  },
+    {
+    "Title": "Sonic the Hedgehog",
+    "Ru_title": "Соник в кино",
+    "Year": "2020",
+    "Rated": "PG",
+    "Released": "14 February 2020 (USA)",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Jeff Fowler",
+    "Writer": "Pat Casey, Josh Miller",
+    "Actors": "Ben Schwartz, James Marsden, Jim Carrey",
+    "Plot": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+    "Awards": "",
+    "Poster": "",
+    "Metascore": "47",
+    "imdbRating": "6.6",
+    "imdbID": "tt3794354",
+    "Type": "movie",
+    "Commentary": "не так уж плохо для семейного фильма, плюс Джим Керри прикольный",
+    "Ryu_score": "4"
   }
 ]
