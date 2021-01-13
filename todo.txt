@@ -1,4 +1,5 @@
 convert 1st list to 2019 watched movies json file.
 
+should i try djanjo with mongodb?
 
 task with patch.
