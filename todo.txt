@@ -7,4 +7,6 @@ task with patch.
 
 durk film half way ???
 
-initial d
+initial d 4 stage
+
+test amend
