@@ -6,7 +6,3 @@ should i try djanjo with mongodb?
 task with patch.
 
 durk film half way ???
-
-initial d 4 stage
-
-test amend
