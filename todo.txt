@@ -4,7 +4,5 @@ test collisions
 
 should i use django with mongo?
 
-
-tenet
-tk
-korean
+sql
+git
