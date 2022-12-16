@@ -6,3 +6,4 @@ should i use django with mongo?
 
 sql
 git
+bigO
