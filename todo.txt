@@ -1,10 +1,8 @@
 convert 1st list to 2019 watched movies json file.
 
-test collisions
-
-should i use django with mongo?
-
 sql
 git
 bigO
-pytests
+pytest
+selenium
+allure
