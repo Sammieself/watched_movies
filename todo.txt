@@ -7,4 +7,4 @@ allure
 numpy
 icecream -> https://github.com/gruns/icecream
 ruff -> https://github.com/SimeonRyu
-
+pygame -> https://www.pygame.org/
