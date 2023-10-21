@@ -5,3 +5,4 @@ pytest
 selenium
 allure
 numpy
+icecream -> https://github.com/gruns/icecream
