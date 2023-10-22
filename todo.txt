@@ -6,5 +6,6 @@ selenium
 allure
 numpy
 icecream -> https://github.com/gruns/icecream
-ruff -> https://github.com/SimeonRyu
+pendulum -> https://pendulum.eustace.io
 pygame -> https://www.pygame.org/
+
