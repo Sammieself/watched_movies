@@ -1,11 +1,13 @@
-sql
-git
-bigO
-pytest
-selenium
-allure
-numpy
-icecream -> https://github.com/gruns/icecream
-pendulum -> https://pendulum.eustace.io
-pygame -> https://www.pygame.org/
-
+python libs: {
+    sqlalchemy
+    matplotlib
+    opencv
+    Tensorflow
+    pytest
+    selenium
+    allure
+    numpy
+    icecream -> https://github.com/gruns/icecream
+    pendulum -> https://pendulum.eustace.io
+    pygame -> https://www.pygame.org/
+}
