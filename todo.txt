@@ -5,7 +5,7 @@ python libs: {
     Tensorflow
     pytest
     selenium
-    allure
+    allure???
     numpy
     icecream -> https://github.com/gruns/icecream
     pendulum -> https://pendulum.eustace.io
